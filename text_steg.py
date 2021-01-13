@@ -1,5 +1,8 @@
-# DESCRIPTION : Format Based Steganography
-#   Algorithm : Open space encoding
+##############################################
+# DESCRIPTION : Format Based Steganography  #
+#   Algorithm : Open space encoding         #
+# Author      : Kishore                     #
+##############################################
 
 def to_ascii(charector):
     # a method to convert charector into ascii int
